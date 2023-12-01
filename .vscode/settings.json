@@ -3,9 +3,16 @@
   "files.trimTrailingWhitespace": true,
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   "[prisma]": {
     "editor.formatOnSave": true
-  }
+  },
+  "cSpell.words": [
+    "Agbalumo",
+    "autodocs",
+    "Bebas",
+    "cruseo",
+    "Neue"
+  ]
 }
